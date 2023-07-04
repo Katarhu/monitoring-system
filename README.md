@@ -3,12 +3,10 @@
 This repository contains the source code and documentation for a Monitoring Vital Signs application built using React,
 Next.js, and React Native.
 
-<p style="display: flex; gap: 50px; align-items: center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100" alt="React logo"/>
-  <img src="https://camo.githubusercontent.com/9a45407f0a2a0c52f76b9458728049eca3ddb60ecec92a43f8cd2af93d253940/68747470733a2f2f7061676570726f2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f72656163742d6e61746976652d6c6f676f2d333234783337352e706e67" width="100" alt="React Native Logo" /> 
-  <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" width="100" alt="Nest.js logo"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3629020-3030245.png" width="100" alt="MongoDB logo" />
-</p>
+|                                                                                                                                         |                                                                                                                                                                                                                                                                                                           |                                                                                                                |                                                                                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100" height="100"> | <img src="https://camo.githubusercontent.com/9a45407f0a2a0c52f76b9458728049eca3ddb60ecec92a43f8cd2af93d253940/68747470733a2f2f7061676570726f2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f72656163742d6e61746976652d6c6f676f2d333234783337352e706e67" width="100" height="125"> | <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" width="100" height="100"> | <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3629020-3030245.png" width="100" height="100"> |
+
 
 ### Overview
 
